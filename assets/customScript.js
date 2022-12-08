@@ -36,7 +36,7 @@ function onRequesHandler(){
         
         addTitle(title);
 
-        for (let i = 1; i < 11; i++) {
+        for (let i = 1; i < 6; i++) {
             addElement({
                 codigo:producto[i][0],
                 producto:producto[i][1],
